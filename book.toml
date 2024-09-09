@@ -4,3 +4,11 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Xila"
+
+[output.html]
+git-repository-url = "https://github.com/Xila-Project"
+git-repository-icon = "fa-github"
+smart-punctuation = true
+mathjax-support = true
+copy-fonts = true
+cname = "book.xila.dev"
