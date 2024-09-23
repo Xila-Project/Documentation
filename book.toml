@@ -3,7 +3,9 @@ authors = ["Alix ANNERAUD"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Xila"
+title = "Xila book"
+description = "Xila book"
+
 
 [output.html]
 git-repository-url = "https://github.com/Xila-Project"
